@@ -91,11 +91,11 @@ Our team has identified such crucial issued with the idea of adressing these pro
    **Portfolio**: [Insert link or description here]
 
 5. **Nishita P Jahagirdhar**:  
-   i. Prioritizing Road Repairs.
-   ii. Dispatching emergency Vehicles to incidents.
-   iii. Event scheduling in Public Spaces.
-   iv. Sorting building height for skyline analysis.
-   v. Tourist Route Planning.
+   i. Prioritizing Road Repairs.  
+ii. Dispatching emergency Vehicles to incidents.  
+iii. Event scheduling in Public Spaces.  
+iv. Sorting building height for skyline analysis.  
+v. Tourist Route Planning.  
    
    **Portfolio**: [Insert link or description here]
 
