@@ -84,9 +84,10 @@ Our team has identified such crucial issued with the idea of adressing these pro
 3. **Rachana P Rane**:  
    i.   Job scheduling in cities   
    ii. Efficient cable network management 
-   iii.Emergency evacuation processs  
-   iv. Optimal delivery route
-   v.Optimization of road tool booth
+   iii.  Emergency evacuation processs  
+   iv.  Optimal delivery route
+   v.  Optimization of road tool booth
+   
    **Portfolio**: [Insert link or description here]
 
 5. **Nishita P Jahagirdhar**:  
