@@ -82,14 +82,14 @@ Our team has identified such crucial issued with the idea of adressing these pro
 
 
 3. **Rachana P Rane**:  
-   i. Example case 1.  
-   ii. Example case 2.  
-   iii. Example case 3.  
-   iv. Example case 4.  
-   v. Example case 5.  
+   i.   Job scheduling in cities   
+   ii. Efficient cable network management 
+   iii.Emergency evacuation processs  
+   iv. Optimal delivery route
+   v.Optimization of road tool booth
    **Portfolio**: [Insert link or description here]
 
-4. **Nishita P Jahagirdhar**:  
+5. **Nishita P Jahagirdhar**:  
    i. Prioritizing Road Repairs.
    ii. Dispatching emergency Vehicles to incidents.
    iii. Event scheduling in Public Spaces.
