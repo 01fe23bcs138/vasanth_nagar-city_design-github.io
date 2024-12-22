@@ -98,7 +98,7 @@ iii. Event scheduling in Public Spaces.
 iv. Sorting building height for skyline analysis.  
 v. Tourist Route Planning.  
    
-   **Portfolio**: [Insert link or description here]
+   **Portfolio**: [Insert link or description here](https://github.com/Nishita-Jahagirdar/NishitaPJ.git)
 
 6. **Tanushree Manjunath**:  
    i. Urban Planning and Zonning.  
