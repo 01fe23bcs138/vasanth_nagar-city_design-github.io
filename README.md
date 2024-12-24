@@ -75,7 +75,7 @@ Our team has identified such crucial issued with the idea of adressing these pro
    i.   Traffic signal synchronization across multiple intersections.  
    ii.  Urban flooding.  
    iii. Waste collection routes.  
-   iv.  Road network design.  
+   iv.  Optimal Placement of Recycling Centres.  
    v.   Water pipeline distribution.
    
    **Portfolio**: [Tap!](https://sahana8866.github.io/rsahana.github.io/)
