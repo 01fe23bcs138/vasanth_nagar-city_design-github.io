@@ -82,11 +82,11 @@ Our team has identified such crucial issued with the idea of adressing these pro
 
 
 3. **Rachana P Rane**:  
-   i.   Job scheduling in cities   
-   ii.   Efficient cable network management   
-   iii.  Emergency evacuation processs  
-   iv.  Optimal delivery route
-   v.  Optimization of road tool booth
+   i.   Job scheduling in cities .  
+   ii.   Efficient cable network management .  
+   iii.   E-commerce & Online Marketplaces  . 
+   iv.  Education & Vocational Training Centers  .
+   v.   Microfinance or Lending Services  .
    
    **Portfolio**: [Tap!](course_reflection)
    
