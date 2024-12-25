@@ -88,7 +88,7 @@ Our team has identified such crucial issued with the idea of adressing these pro
    iv.  Education & Vocational Training Centers  .
    v.   Microfinance or Lending Services  .
    
-   **Portfolio**: [Tap!](https://github.com/Rachanarane25/portfolio.github.io)
+   **Portfolio**: [Tap!](https://rachanarane25.github.io/portfolio.github.io/)
    
 
 5. **Nishita P Jahagirdhar**:  
