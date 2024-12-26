@@ -78,7 +78,7 @@ This project aims to create a practical, algorithm-driven solution for disaster 
 
 ## Individual Implementation
 
-## **Sahana R**
+## Sahana R
 1. **Dynamic Resource Allocation**
 2. **High-Risk Zone Prioritization**
 3. **Critical Infrastructure Identification**
