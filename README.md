@@ -72,25 +72,6 @@ Our team has identified such crucial issued with the idea of adressing these pro
 
 ## [Problem Definition](Problem_Definition.md)
 
-
----
-layout: post
-title: "My Jekyll Post with a Stylish Photo"
-date: 2024-12-26
-categories: project
----
-
-## Welcome to My Post
-
-Here’s my photo with a nice backshadow:
-
-<div style="text-align: center;">
-  <img src="/assets/images/my-photo.jpg" alt="My Photo" title="This is my photo" style="width: 300px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);">
-</div>
-
-Hope you like it!
-
-
 ## Separate Business Cases Taken Up By Each Member:
 
 1. **Sahana R**:  
@@ -134,3 +115,11 @@ v. Tourist Route Planning.
    **Portfolio**: [Tap!](https://01fe23bcs120.github.io/)
 
    This portfolio demonstrates how the theory and application of algorithms can help solve complex, real-world problems, particularly in urban planning and city design.
+
+
+## INDIVIDUAL PORTFOLIO
+
+<div style="text-align: center;">
+  <img src="/assets/images/my-photo.jpg" alt="My Photo" title="This is my photo" style="width: 300px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);">
+</div>
+
