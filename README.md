@@ -106,10 +106,9 @@ v. Tourist Route Planning.
    ii. Energy Distribution Networks.  
    iii. Hospital Resource Management.  
    iv. Air Quality Monitoring.  
-   v. Pedestrian and Bicycle Path Planning.
+   v. Pedestrian and Bicycle Path Planning.<br>
+   vi. Integrated Urban Planning and Sustainable Pedestrian Path Design: Optimizing Zoning and Non-Motorized Transportation Networks
 
    **Portfolio**: [Tap!](https://01fe23bcs120.github.io/)
 
-
-
-This portfolio demonstrates how the theory and application of algorithms can help solve complex, real-world problems, particularly in urban planning and city design.
+   This portfolio demonstrates how the theory and application of algorithms can help solve complex, real-world problems, particularly in urban planning and city design.
