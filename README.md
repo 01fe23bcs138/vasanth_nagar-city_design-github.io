@@ -77,6 +77,7 @@ Our team has identified such crucial issued with the idea of adressing these pro
    iii. Waste collection routes.  
    iv.  Optimal Placement of Recycling Centres.  
    v.   Water pipeline distribution.
+   vi. Optimizing Waste Collection Routes.
    
    **Portfolio**: [Tap!](https://sahana8866.github.io/rsahana.github.io/)
 
