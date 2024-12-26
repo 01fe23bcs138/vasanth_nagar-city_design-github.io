@@ -120,9 +120,16 @@ v. Tourist Route Planning.
 ## INDIVIDUAL PORTFOLIO
 
 <div style="text-align: center;">
-  <img src="nishita.jpg" alt="My Photo" title="This is my photo" style="width: 300px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);">
+  <img src="nishita.jpg" alt="My Photo" title="nishita" style="width: 150px; border-radius: 100px; box-shadow: 0px 4px 8px rgba(238, 130, 238, 1);">
 </div>
 
+ ## **Portfolio**: [Tap!](https://nishita-jahagirdar.github.io/Nishita.github.io/)
+
 <div style="text-align: center;">
-  <img src="tanushree.jpg" alt="My Photo" title="This is my photo" style="width: 300px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);">
+  <img src="tanushree.jpg" alt="My Photo" title="tanushree" style="width: 150px; border-radius: 100px; box-shadow: 0px 4px 8px rgba(238, 130, 238, 1);">
 </div>
+
+  ## **Portfolio**: [Tap!](https://01fe23bcs120.github.io/)
+
+
+
