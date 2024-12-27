@@ -82,21 +82,19 @@ Our team has identified such crucial issued with the idea of adressing these pro
    iv.  Optimal Placement of Recycling Centres.  
    v.   Water pipeline distribution.                                                                                                                               
    vi.  Optimizing Waste Collection Routes.
+
    
-  --
 
-
-3. **Rachana P Rane**:  
+2. **Rachana P Rane**:  
    i.   Job scheduling in cities.  
    ii.  Efficient cable network management.  
    iii. E-commerce & Online Marketplaces.                                                                                                                          
    iv.  Education & Vocational Training Centers.                                                                                                                   
    v.   Microfinance or Lending Services.                                                                                                                          
    
- --
    
 
-5. **Nishita P Jahagirdhar**:  
+3. **Nishita P Jahagirdhar**:  
    i.   Prioritizing Road Repairs.  
    ii.  Dispatching emergency Vehicles to incidents.  
    iii. Event scheduling in Public Spaces.  
@@ -105,7 +103,7 @@ Our team has identified such crucial issued with the idea of adressing these pro
    
 --
 
-6. **Tanushree Manjunath**:  
+4. **Tanushree Manjunath**:  
    i.   Urban Planning and Zonning.  
    ii.  Energy Distribution Networks.  
    iii. Hospital Resource Management.  
@@ -114,9 +112,6 @@ Our team has identified such crucial issued with the idea of adressing these pro
    vi.  Integrated Urban Planning and Sustainable Pedestrian Path Design: Optimizing Zoning and Non-Motorized Transportation Networks
 
 
-   This portfolio demonstrates how the theory and application of algorithms can help solve complex, real-world problems, particularly in urban planning and city design.
-
---
 
 ## INDIVIDUAL PORTFOLIO
 
@@ -128,17 +123,17 @@ Our team has identified such crucial issued with the idea of adressing these pro
  **USN**      : 01FE23BCS138                                                                                                                                       
  [**Portfolio**](https://sahana8866.github.io/rsahana.github.io/)
 
---
 
-## **Racahana P Rane**
+
+## **Rachana P Rane**
 <div style="text-align: center;">
-  <img src="rachana.jpg" alt="My Photo" title="Racahana P Rane" style="width: 150px; border-radius: 100px; box-shadow: 0px 4px 8px rgba(238, 130, 238, 1);">
+  <img src="rachana.jpg" alt="My Photo" title="Rachana P Rane" style="width: 150px; border-radius: 100px; box-shadow: 0px 4px 8px rgba(238, 130, 238, 1);">
 </div>
 
  **USN**      : 01FE23BCS150                                                                                                                                       
  [**Portfolio**](https://rachanarane25.github.io/portfolio.github.io/)
 
- --
+ 
 
 ## **Nishita P Jahagirdhar**
 <div style="text-align: center;">
@@ -148,7 +143,7 @@ Our team has identified such crucial issued with the idea of adressing these pro
  **USN**      : 01FE23BCS123                                                                                                                                       
  [**Portfolio**](https://nishita-jahagirdar.github.io/Nishita.github.io/)
 
---
+
 
 ## **Tanushree Manjunath**
 <div style="text-align: center;">
@@ -158,5 +153,8 @@ Our team has identified such crucial issued with the idea of adressing these pro
  **USN**      : 01FE23BCS120                                                                                                                                       
  [Portfolio](https://01fe23bcs120.github.io/)
 
---
 
+   This portfolio demonstrates how the theory and application of algorithms can help solve complex, real-world problems, particularly in urban planning and city 
+   design.
+
+   
