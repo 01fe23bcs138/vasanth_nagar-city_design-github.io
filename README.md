@@ -148,7 +148,7 @@ Our team has identified such crucial issued with the idea of adressing these pro
 </div>
 
  **USN**      : 01FE23BCS120                                                                                                                                       
- [Portfolio](https://01fe23bcs120.github.io/)
+ [**Portfolio**](https://01fe23bcs120.github.io/)
 
 
    This portfolio demonstrates how the theory and application of algorithms can help solve complex, real-world problems, particularly in urban planning and city 
