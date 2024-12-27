@@ -120,17 +120,43 @@ v. Tourist Route Planning.
 
 ## INDIVIDUAL PORTFOLIO
 
+## **Sahana R**
 <div style="text-align: center;">
-  <img src="nishita.jpg" alt="My Photo" title="nishita" style="width: 150px; border-radius: 100px; box-shadow: 0px 4px 8px rgba(238, 130, 238, 1);">
+  <img src="sahana.jpg" alt="My Photo" title="Sahana R" style="width: 150px; border-radius: 100px; box-shadow: 0px 4px 8px rgba(238, 130, 238, 1);">
 </div>
 
- ## **Portfolio**: [Tap!](https://nishita-jahagirdar.github.io/Nishita.github.io/)
+ ## **USN**      : 01FE23BCS138
+ ## [Portfolio](https://sahana8866.github.io/rsahana.github.io/)
 
+--
+
+## **Racahana P Rane**
 <div style="text-align: center;">
-  <img src="tanushree.jpg" alt="My Photo" title="tanushree" style="width: 150px; border-radius: 100px; box-shadow: 0px 4px 8px rgba(238, 130, 238, 1);">
+  <img src="rachana.jpg" alt="My Photo" title="Racahana P Rane" style="width: 150px; border-radius: 100px; box-shadow: 0px 4px 8px rgba(238, 130, 238, 1);">
 </div>
 
-  ## **Portfolio**: [Tap!](https://01fe23bcs120.github.io/)
+ ## **USN**      : 01FE23BCS150
+ ## [Portfolio](https://rachanarane25.github.io/portfolio.github.io/)
 
+ --
 
+## **Nishita P Jahagirdhar**
+<div style="text-align: center;">
+  <img src="nishita.jpg" alt="My Photo" title="Nishita P Jahagirdhar" style="width: 150px; border-radius: 100px; box-shadow: 0px 4px 8px rgba(238, 130, 238, 1);">
+</div>
+
+ ## **USN**      : 01FE23BCS123
+ ## [Portfolio](https://nishita-jahagirdar.github.io/Nishita.github.io/)
+
+--
+
+## **Tanushree Manjunath**
+<div style="text-align: center;">
+  <img src="tanushree.jpg" alt="My Photo" title="Tanushree Manjunath" style="width: 150px; border-radius: 100px; box-shadow: 0px 4px 8px rgba(238, 130, 238, 1);">
+</div>
+
+   ## **USN**      : 01FE23BCS120
+  ## [Portfolio](https://01fe23bcs120.github.io/)
+
+--
 
