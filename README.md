@@ -83,7 +83,6 @@ Our team has identified such crucial issued with the idea of adressing these pro
    v.   Water pipeline distribution.                                                                                                                               
    vi.  Optimizing Waste Collection Routes.
 
-   
 
 2. **Rachana P Rane**:  
    i.   Job scheduling in cities.  
@@ -93,7 +92,6 @@ Our team has identified such crucial issued with the idea of adressing these pro
    v.   Microfinance or Lending Services.                                                                                                                          
    
    
-
 3. **Nishita P Jahagirdhar**:  
    i.   Prioritizing Road Repairs.  
    ii.  Dispatching emergency Vehicles to incidents.  
@@ -101,7 +99,6 @@ Our team has identified such crucial issued with the idea of adressing these pro
    iv.  Sorting building height for skyline analysis.  
    v.   Tourist Route Planning.  
    
---
 
 4. **Tanushree Manjunath**:  
    i.   Urban Planning and Zonning.  
