@@ -81,42 +81,42 @@ Our team has identified such crucial issued with the idea of adressing these pro
    iii. Waste collection routes.  
    iv.  Optimal Placement of Recycling Centres.  
    v.   Water pipeline distribution.                                                                                                                               
-   vi. Optimizing Waste Collection Routes.
+   vi.  Optimizing Waste Collection Routes.
    
-   **Portfolio**: [Tap!](https://sahana8866.github.io/rsahana.github.io/)
+  --
 
 
 3. **Rachana P Rane**:  
-   i.   Job scheduling in cities .  
-   ii.   Efficient cable network management .  
-   iii.   E-commerce & Online Marketplaces  . 
-   iv.  Education & Vocational Training Centers  .
-   v.   Microfinance or Lending Services  .
+   i.   Job scheduling in cities.  
+   ii.  Efficient cable network management.  
+   iii. E-commerce & Online Marketplaces.                                                                                                                          
+   iv.  Education & Vocational Training Centers.                                                                                                                   
+   v.   Microfinance or Lending Services.                                                                                                                          
    
-   **Portfolio**: [Tap!](https://rachanarane25.github.io/portfolio.github.io/)
+ --
    
 
 5. **Nishita P Jahagirdhar**:  
-   i. Prioritizing Road Repairs.  
-ii. Dispatching emergency Vehicles to incidents.  
-iii. Event scheduling in Public Spaces.  
-iv. Sorting building height for skyline analysis.  
-v. Tourist Route Planning.  
+   i.   Prioritizing Road Repairs.  
+   ii.  Dispatching emergency Vehicles to incidents.  
+   iii. Event scheduling in Public Spaces.  
+   iv.  Sorting building height for skyline analysis.  
+   v.   Tourist Route Planning.  
    
-   **Portfolio**: [Tap!](https://nishita-jahagirdar.github.io/Nishita.github.io/)
+--
 
 6. **Tanushree Manjunath**:  
-   i. Urban Planning and Zonning.  
-   ii. Energy Distribution Networks.  
+   i.   Urban Planning and Zonning.  
+   ii.  Energy Distribution Networks.  
    iii. Hospital Resource Management.  
-   iv. Air Quality Monitoring.  
-   v. Pedestrian and Bicycle Path Planning.<br>
-   vi. Integrated Urban Planning and Sustainable Pedestrian Path Design: Optimizing Zoning and Non-Motorized Transportation Networks
+   iv.  Air Quality Monitoring.  
+   v.   Pedestrian and Bicycle Path Planning.<br>
+   vi.  Integrated Urban Planning and Sustainable Pedestrian Path Design: Optimizing Zoning and Non-Motorized Transportation Networks
 
-   **Portfolio**: [Tap!](https://01fe23bcs120.github.io/)
 
    This portfolio demonstrates how the theory and application of algorithms can help solve complex, real-world problems, particularly in urban planning and city design.
 
+--
 
 ## INDIVIDUAL PORTFOLIO
 
@@ -125,8 +125,8 @@ v. Tourist Route Planning.
   <img src="sahana.jpg" alt="My Photo" title="Sahana R" style="width: 150px; border-radius: 100px; box-shadow: 0px 4px 8px rgba(238, 130, 238, 1);">
 </div>
 
- ## **USN**      : 01FE23BCS138
- ## [Portfolio](https://sahana8866.github.io/rsahana.github.io/)
+ **USN**      : 01FE23BCS138                                                                                                                                       
+ [**Portfolio**](https://sahana8866.github.io/rsahana.github.io/)
 
 --
 
@@ -135,8 +135,8 @@ v. Tourist Route Planning.
   <img src="rachana.jpg" alt="My Photo" title="Racahana P Rane" style="width: 150px; border-radius: 100px; box-shadow: 0px 4px 8px rgba(238, 130, 238, 1);">
 </div>
 
- ### **USN**      : 01FE23BCS150
- ### [Portfolio](https://rachanarane25.github.io/portfolio.github.io/)
+ **USN**      : 01FE23BCS150                                                                                                                                       
+ [**Portfolio**](https://rachanarane25.github.io/portfolio.github.io/)
 
  --
 
@@ -145,8 +145,8 @@ v. Tourist Route Planning.
   <img src="nishita.jpg" alt="My Photo" title="Nishita P Jahagirdhar" style="width: 150px; border-radius: 100px; box-shadow: 0px 4px 8px rgba(238, 130, 238, 1);">
 </div>
 
- ## **USN**      : 01FE23BCS123
- ## [Portfolio](https://nishita-jahagirdar.github.io/Nishita.github.io/)
+ **USN**      : 01FE23BCS123                                                                                                                                       
+ [**Portfolio**](https://nishita-jahagirdar.github.io/Nishita.github.io/)
 
 --
 
@@ -155,8 +155,8 @@ v. Tourist Route Planning.
   <img src="tanushree.jpg" alt="My Photo" title="Tanushree Manjunath" style="width: 150px; border-radius: 100px; box-shadow: 0px 4px 8px rgba(238, 130, 238, 1);">
 </div>
 
-   ## **USN**      : 01FE23BCS120
-  ## [Portfolio](https://01fe23bcs120.github.io/)
+ **USN**      : 01FE23BCS120                                                                                                                                       
+ [Portfolio](https://01fe23bcs120.github.io/)
 
 --
 
