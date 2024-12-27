@@ -135,8 +135,8 @@ v. Tourist Route Planning.
   <img src="rachana.jpg" alt="My Photo" title="Racahana P Rane" style="width: 150px; border-radius: 100px; box-shadow: 0px 4px 8px rgba(238, 130, 238, 1);">
 </div>
 
- ## **USN**      : 01FE23BCS150
- ## [Portfolio](https://rachanarane25.github.io/portfolio.github.io/)
+ ### **USN**      : 01FE23BCS150
+ ### [Portfolio](https://rachanarane25.github.io/portfolio.github.io/)
 
  --
 
