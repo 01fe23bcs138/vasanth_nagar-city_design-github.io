@@ -98,9 +98,10 @@ Our team has identified such crucial issued with the idea of adressing these pro
    iii. Event scheduling in Public Spaces.  
    iv.  Sorting building height for skyline analysis.  
    v.   Tourist Route Planning.  
+   vi.  Optimized Sorting for Infrastructure Analysis
    
 
-4. **Tanushree Manjunath**:  
+5. **Tanushree Manjunath**:  
    i.   Urban Planning and Zonning.  
    ii.  Energy Distribution Networks.  
    iii. Hospital Resource Management.  
