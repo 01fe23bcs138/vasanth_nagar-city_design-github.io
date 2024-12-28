@@ -81,11 +81,11 @@ This project aims to create a practical, algorithm-driven solution for disaster 
 
 ## Sahana R
 1. **Dynamic Resource Allocation**
-2. **High-Risk Zone Prioritization**
+2.  **Disaster Impact Mapping**
 3. **Critical Infrastructure Identification**
    
 ## Rachana P Rane
-1. **Disaster Impact Mapping**
+1. **High-Risk Zone Prioritization** 
 2. **Optimal Evacuation Routing**
 3. **Resource Distribution Cost Minimization**
 
