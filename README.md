@@ -92,7 +92,7 @@ Our team has identified such crucial issued with the idea of adressing these pro
    v.   Microfinance or Lending Services.                                                                                                                          
    
    
-3. **Nishita P Jahagirdhar**:  
+3. **Nishita P Jahagirdar**:  
    i.   Prioritizing Road Repairs.  
    ii.  Dispatching emergency Vehicles to incidents.  
    iii. Event scheduling in Public Spaces.  
@@ -133,7 +133,7 @@ Our team has identified such crucial issued with the idea of adressing these pro
 
  
 
-## **Nishita P Jahagirdhar**
+## **Nishita P Jahagirdar**
 <div style="text-align: center;">
   <img src="nishita.jpg" alt="My Photo" title="Nishita P Jahagirdhar" style="width: 150px; border-radius: 100px; box-shadow: 0px 4px 8px rgba(238, 130, 238, 1);">
 </div>
