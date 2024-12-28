@@ -88,7 +88,7 @@ This project aims to create a practical, algorithm-driven solution for disaster 
 2. **Optimal Evacuation Routing**
 3. **Resource Distribution Cost Minimization**
 
-## Nishita P Jahagirdhar
+## Nishita P Jahagirdar
 1. **Evacuation Request Scheduling**
 2. **Evacuation Zone Network Design**
 3. **Dynamic Evacuation Path Updates**
