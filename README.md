@@ -66,7 +66,7 @@ Our team has identified such crucial issued with the idea of adressing these pro
 |--------------------------|------------------|
 | Sahana R                | 01fe23bcs138     |
 | Rachana P Rane          | 01fe23bcs150     |
-| Nishita P Jahagirdhar   | 01fe23bcs123     |
+| Nishita P Jahagirdar   | 01fe23bcs123     |
 | Tanushree Manjunath     | 01fe23bcs120     |
 
 
