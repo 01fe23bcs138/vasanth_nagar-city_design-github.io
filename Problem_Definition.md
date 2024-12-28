@@ -13,7 +13,7 @@ This system will address the following **12 sub-problems**, along with the **alg
    - **Algorithm**: **Priority Queue** (to process evacuation requests based on urgency).
 
 2. **Disaster Impact Mapping**  
-   - **Objective**: Map affected zones and track the severity of disasters in real-time.  
+   - **Objective**: Map affected zones and track the severity of disasters.  
    - **Algorithm**: **Hashing** (to store and retrieve zone-specific disaster impact data).
 
 3. **Optimal Evacuation Routing**  
@@ -21,8 +21,9 @@ This system will address the following **12 sub-problems**, along with the **alg
    - **Algorithm**: **Dijkstra's Algorithm** (to calculate the shortest and safest paths to shelters).
 
 4. **Dynamic Resource Allocation**  
-   - **Objective**: Efficiently allocate resources such as medical supplies and food to disaster-hit zones.  
-   - **Algorithm**: **Bellman-Ford Algorithm** (to calculate shortest paths while considering dynamic changes in resource demands).
+   - **Objective**: Efficiently allocate resources such as medical supplies and food to disaster-hit zones (find shortest path from a source to various 
+    destinations).                                                                                                                                                 
+   - **Algorithm**: **Bellman-Ford Algorithm** (to calculate shortest paths).
 
 5. **Shelter-to-Zone Connectivity Analysis**  
    - **Objective**: Assess connectivity between shelters and disaster zones to optimize resource distribution.  
