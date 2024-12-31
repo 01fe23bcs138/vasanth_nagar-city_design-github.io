@@ -115,7 +115,7 @@ Our team has identified such crucial issued with the idea of adressing these pro
 
 ## **Sahana R**
 <div style="text-align: center;">
-  <img src="sahana2.jpg" alt="My Photo" title="Sahana R" style="width: 150px; border-radius: 100px; box-shadow: 0px 4px 8px rgba(238, 130, 238, 1);">
+  <img src="sahana1.jpg" alt="My Photo" title="Sahana R" style="width: 150px; border-radius: 100px; box-shadow: 0px 4px 8px rgba(238, 130, 238, 1);">
 </div>
 
  **USN**      : 01FE23BCS138                                                                                                                                       
